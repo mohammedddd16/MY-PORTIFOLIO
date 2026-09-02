@@ -5,6 +5,6 @@ body {
   background-image: url(assets/imgs/images.jfif);
   background-size: cover;
 }
-#header {
+h2 {
 text-shadow: 5px 5px 10px rgb(97, 94, 94);
 }
